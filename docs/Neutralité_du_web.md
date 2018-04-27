@@ -33,7 +33,7 @@ En Europe, le respect de ce principe est imposé par le régulateur des téléco
 Voici les raisions pour la neutralité du Net:
 
 * Assurer la liberté individuelle fondamentale:
-Chacun a le droit de lire et de publier du contenu sur internet, en respectant la loi bien sûr, sans qu’un FAI ne décide de ce qui est prioritaire. 
+Chacun a le droit de lire et de publier du contenu sur internet, en respectant la loi bien sûr, sans qu’un [FAI (Fournisseur d'accès à Internet)](https://fr.wikipedia.org/wiki/Fournisseur_d%27accès_à_Internet) ne décide de ce qui est prioritaire. 
 * Assurer la libre concurrence
 * Pas de censure
 * Etre actif sur internet
